@@ -14,86 +14,86 @@ currentGameVersion: '**YOUR TRANSLATION HERE**'
 
 Here the strings to translate:
 
-currentGameVersion: 'Current game version: ',<br/>
+currentGameVersion: 'Bieżąca wersja gry: ',<br/>
 routeHomeTitle: 'Trucky Companion App',<br/>
-routeServersTitle: 'TruckersMP Servers',<br/>
-routeMeetupsTitle: 'Meetups',<br/>
-routeSettingsTitle: 'Settings',<br/>
-routeAboutTitle: 'About this app',<br/>
-routeRulesTitle: 'TruckersMP Rules',<br/>
-supportedETSVersion: 'Supported ETS version: ',<br/>
-supportedATSVersion: 'Supported ATS version: ',<br/>
-lastReleaseDate: 'Last Release date: ',<br/>
-playersOnline: 'players online',<br/>
-currentGameTime: 'Current game time: ',<br/>
-servers: 'Servers',<br/>
-about: 'About',<br/>
-meetups: 'Meetups',<br/>
-searchPlayer: 'Search Player',<br/>
-rules: 'Rules',<br/>
-settings: 'Settings', <br/>
-playersInQueue: 'players in queue',<br/>
+routeServersTitle: 'Serwery TruckersMP',<br/>
+routeMeetupsTitle: 'Konwoje',<br/>
+routeSettingsTitle: 'Ustawienia',<br/>
+routeAboutTitle: 'O aplikacji',<br/>
+routeRulesTitle: 'Zasady TruckersMP ',<br/>
+supportedETSVersion: 'Wspierana wersja ETS: ',<br/>
+supportedATSVersion: 'Wspierana wersja ATS: ',<br/>
+lastReleaseDate: 'Data ostatniej aktualizacji: ',<br/>
+playersOnline: 'graczy online',<br/>
+currentGameTime: 'Aktualny czas gry: ',<br/>
+servers: 'Serwery',<br/>
+about: 'O aplikacji',<br/>
+meetups: 'Konwoje',<br/>
+searchPlayer: 'Szukaj gracza',<br/>
+rules: 'Zasady',<br/>
+settings: 'Ustawienia', <br/>
+playersInQueue: 'Gracze w kolejce',<br/>
 online: 'Online',<br/>
 offline: 'Offline',<br/>
-speedLimiterEnabled: 'Speed limiter enabled',<br/>
-speedLimiterDisabled: 'Speed limiter disabled',<br/>
+speedLimiterEnabled: 'Ogranicznik prędkości jest włączony',<br/>
+speedLimiterDisabled: 'Ogranicznik prędkości jest wyłączony',<br/>
 status: 'Status',<br/>
-info: 'Info',<br/>
-addToCalendar: 'Add to calendar',<br/>
-language: 'Language: ',<br/>
-enableAutoRefresh: 'Enable auto refresh',<br/>
-autoRefreshGameTime: 'Auto refresh game time',<br/>
-autoRefreshServersList: 'Auto refersh servers list',<br/>
-refreshServersListEvery: 'Refresh servers list every',<br/>
-seconds10: '10 seconds',<br/>
-seconds30: '30 seconds',<br/>
-minute: '1 minute',<br/>
-minutes2: '2 minutes',<br/>
-minutes5: '5 minutes',<br/>
-minutes10: '10 minutes',<br/>
-minutes20: '20 minutes',<br/>
-customizations: 'Customizations',<br/>
-settingsHeaderLanguage: 'Language',<br/>
-settingsHeaderTheme: 'Theme',<br/>
-english: 'English',<br/>
-italian: 'Italiano',<br/>
-eventAddedToCalendar: 'Event added to calendar',<br/>
-eventTitle: 'TruckersMP Event - Meetup',<br/>
-eventNotes: 'Organized by {0} - Server: {1}',<br/>
-truckersMPWebSite: 'TruckersMP Website',<br/>
-truckersMPForum: 'TruckersMP Forum',<br/>
-truckersMPSteamGroup: 'TruckersMP Steam Group',<br/>
-readMore: 'Read More',<br/>
-newsAndEvents: 'News and events',<br/>
-gameStatus: 'Game Status',<br/>
-newTruckersMPGameVersionReleaseNotificationText: 'New TruckersMP version released'<br/>
-french: 'French',<br/>
-bulgarian: 'Bulgarian',<br/>
-finnish: 'Finnish',<br/>
-spanish: 'Spanish',<br/>
-dutch: 'Dutch',<br/>
+info: 'Informacje',<br/>
+addToCalendar: 'Dodaj do kalendarza',<br/>
+language: 'Język: ',<br/>
+enableAutoRefresh: 'Włącz automatyczne odświeżanie',<br/>
+autoRefreshGameTime: 'Automatycznie odśwież czas gry',<br/>
+autoRefreshServersList: 'Automatycznie odśwież listę serwerów',<br/>
+refreshServersListEvery: 'Odświeżaj listę serwerów co',<br/>
+seconds10: '10 sekund',<br/>
+seconds30: '30 sekund',<br/>
+minute: '1 minutę',<br/>
+minutes2: '2 minuty',<br/>
+minutes5: '5 minut',<br/>
+minutes10: '10 minut',<br/>
+minutes20: '20 minut',<br/>
+customizations: 'Modyfikacje',<br/>
+settingsHeaderLanguage: 'Język',<br/>
+settingsHeaderTheme: 'Motyw',<br/>
+english: 'Angielski',<br/>
+italian: 'Włoski',<br/>
+eventAddedToCalendar: 'Zdarzenie dodane do kalendarza',<br/>
+eventTitle: 'Wydarzenie TruckersMP - Konwój',<br/>
+eventNotes: 'Organizowane przez {0} - Serwer: {1}',<br/>
+truckersMPWebSite: 'Strona TruckersMP',<br/>
+truckersMPForum: 'Forum TruckersMP',<br/>
+truckersMPSteamGroup: 'Grupa Steam TruckersMP',<br/>
+readMore: 'Dowiedz się więcej',<br/>
+newsAndEvents: 'Wiadomości i wydarzenia',<br/>
+gameStatus: 'Stan gry',<br/>
+newTruckersMPGameVersionReleaseNotificationText: 'Została wydana nowa wersja TruckersMP'<br/>
+french: 'Francuski',<br/>
+bulgarian: 'Bułgarski',<br/>
+finnish: 'Fiński',<br/>
+spanish: 'Hiszpański',<br/>
+dutch: 'Holenderski',<br/>
 // LABELS FOR SEARCH PLAYER SCREEN<br/>
-searchBySteamUsername: 'By Steam Username',<br/>
-searchBySteamID: 'By Steam ID',<br/>
-searchByTruckersMPID: 'By TruckersMP ID',<br/>
-searchButton: 'Search',<br/>
-searchFieldPlaceholder: 'Specifiy search term',<br/>
-steamProfile: 'Steam profile',<br/>
-truckersMPProfile: 'TruckersMP profile',<br/>
-viewSteamProfile: 'View Steam profile',<br/>
-viewTruckersMPProfile: 'View TruckersMP profile',<br/>
-bans: 'Bans History',<br/>
-noBans: 'No bans',<br/>
-nickName: 'Nickname:',<br/>
-onTruckersMPfrom: 'On TruckersMP from', // On TruckersMP from DATE<br/>
-onSteamFrom: 'On Steam from', // On Steam from DATE<br/>
-role: 'Role:',<br/>
+searchBySteamUsername: 'Wg nazwy użytkownika Steam',<br/>
+searchBySteamID: 'Wg Steam ID',<br/>
+searchByTruckersMPID: 'Wg TruckersMP ID',<br/>
+searchButton: 'Szukaj',<br/>
+searchFieldPlaceholder: 'Specyficzny termin wyszukiwania',<br/>
+steamProfile: 'Profil Steam',<br/>
+truckersMPProfile: 'Profil TruckersMP',<br/>
+viewSteamProfile: 'Zobacz profil Steam',<br/>
+viewTruckersMPProfile: 'Zobacz profil TruckersMP',<br/>
+bans: 'Historia banów',<br/>
+noBans: 'Brak banów',<br/>
+nickName: 'Nazwa:',<br/>
+onTruckersMPfrom: 'Na TruckersMP od', //Na TruckersMP od dnia<br/>
+onSteamFrom: 'Na Steam od', // Na Steam od dnia<br/>
+role: 'Rola:',<br/>
 truckersMPID: 'TruckersMP ID:',<br/>
-realName: 'Real Name:',<br/>
-steamUsername: 'Steam Username:',<br/>
+realName: 'Prawdziwe imię:',<br/>
+steamUsername: 'Nazwa użytkownika Steam:',<br/>
 steamID: 'Steam ID:',<br/>
-issuedBy: 'Issued by {0} on {1}', // complete phrase is: Issued by NICKNAME on DATE<br/>
-expires: 'Expires:' // Expires: DATE<br/>
+issuedBy: 'Wydane przez {0} na {1}', // complete phrase is: Issued by NICKNAME on DATE<br/>
+expires: 'Wygasa:' // Wygasa: Dnia<br/>
 
 
 Thank you!
